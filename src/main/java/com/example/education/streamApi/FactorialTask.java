@@ -1,4 +1,4 @@
-package com.example.education.tasks;
+package com.example.education.streamApi;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;

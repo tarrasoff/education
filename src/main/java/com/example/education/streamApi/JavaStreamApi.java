@@ -1,4 +1,4 @@
-package com.example.education.tasks;
+package com.example.education.streamApi;
 
 /*Практическое задание - Stream API - генерация чисел
         Предположим, у нас есть список заказов, и каждый заказ представляет собой продукт и его стоимость.
